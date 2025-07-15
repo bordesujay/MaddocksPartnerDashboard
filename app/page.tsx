@@ -156,7 +156,7 @@ export default function ImprovedPartnerDashboard() {
                       <span className="font-semibold">12</span>
                     </div>
                     <div className="flex items-center justify-between">
-                      <span className="text-sm text-gray-600">Active Cases</span>
+                      <span className="text-sm text-gray-600">Active Matters</span>
                       <span className="font-semibold">89</span>
                     </div>
                     <div className="flex items-center justify-between">

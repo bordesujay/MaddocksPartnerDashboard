@@ -29,7 +29,7 @@ const metrics = [
     description: "vs last month",
   },
   {
-    title: "Cases Closed",
+    title: "Matters Closed",
     value: "28",
     change: "+15.4%",
     trend: "up",
